@@ -4,4 +4,6 @@ We'll explore one of the most dreaded - but inevitable - things in Git... Merge 
 Everyone should change the following sentance with thier own thing:
 
 I am Eun Suk Lee and my favorite programming language is JAVA
+I am Kevin and my favorite programming language is Java.
+I am is Steven and my favorite programming language is C++ (Come at me McQuain).
 
